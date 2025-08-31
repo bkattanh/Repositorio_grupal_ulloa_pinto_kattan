@@ -1,1 +1,0 @@
-Analisis critico Benjamin Kattan
