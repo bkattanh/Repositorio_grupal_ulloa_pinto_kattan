@@ -1,4 +1,4 @@
-# Descripción base de datos inicial
+[base_datos_Benja_2019_2025.csv](https://github.com/user-attachments/files/22164648/base_datos_Benja_2019_2025.csv)# Descripción base de datos inicial
 La base de datos esta compuesta de más de un documento por lo tanto abajo explicito lo solicitado para cada fuente.
 
 ## Juegos deportivos escolares (JDE)
@@ -31,4 +31,9 @@ Este documento es valioso para el tema de investigación pues pemite observar el
   - Fuentes consultadas: www.atleticosantiago.cl, pagina oficial del organizador, la cual tenia los PDF de los resultados.
   - Metodo de recolección: inscripcion manual (trasncripcion de tabalas desde pdf a excel) Esto pues las tablas ya estan estructuradas
   - Levantamiento de datos: los datos fueron levantados durante el campeonato interescolar Mario Correa Letelier (H) y Ilse Barends Heck (M), organizado por el club atletico santiago, dependiendo de la edición se realizaron en la Pista Atlética "Eliana Gaete L." - San Carlos de Apoquindo en 2023 y en 2024 en la Pista Atlética - Coliseo Central y en el Estadio Nacional: Pista Atlética "Mario Recordon B." para Lanzamientos. El instrumento utilizado para medir según se detalla en el documento fue un cronometo finsihLynx y otros de los cuales no tengo claridad.Pero al igual que el anterior son los datos oficiales del campeonato y han sido tabulados en planillas en formato pdf.
- 
+
+  - Link propuesta Excel
+  - https://drive.google.com/file/d/1ju_vLz9lYAH5NZU00sck1CVI61Hp2hyX/view?usp=drive_link
+    
+
+
