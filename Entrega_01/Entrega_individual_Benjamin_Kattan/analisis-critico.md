@@ -5,12 +5,12 @@ Además espero que los datos que obtengamos nos permitan humanizar la historia. 
 De la misma forma quiero dar cuenta si  hay continuidad o no en las trayectorias deportivas. Es decir cuántos de los nombres que aparecen repetidamente en los podios escolares logran sostenerse en el tiempo y llegan a niveles de rendimiento importantes. Saber cuantos desaparecen en el camino y cuanto sigue es una manera de medir también la efectividad de los campeonaros escolares como semilleros de talento.
 
 ## Tres ideas para contar
-Diagrama de lineas: cada linea representaria a un atleta, siendo una variable años y otra marca (tiempo y distancia) Muestra si mejoró, se estancó o desaopreció.
+**Diagrama de lineas**: cada linea representaria a un atleta, siendo una variable años y otra marca (tiempo y distancia) Muestra si mejoró, se estancó o desaopreció.
 
-diagrama de embudo: un diagrama que parte grande y se va achicando
+**diagrama de embudo**: un diagrama que parte grande y se va achicando
 - todos los que gana en deportes escolares
 - cuantos termina en panamericanos
 
-  Barras comparativa
+ **Barras comparativa**
 - dos barras por cada prueba. una con el record escolar y otra con el record adulto. Muestra la diferencia entre jovenes y adulto
 
