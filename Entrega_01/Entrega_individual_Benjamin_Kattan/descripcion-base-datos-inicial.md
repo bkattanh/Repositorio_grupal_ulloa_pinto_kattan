@@ -4,11 +4,9 @@ La base de datos esta compuesta de más de un documento por lo tanto abajo expli
 ## Juegos deportivos escolares (JDE)
 - **Propietario**: Instituto Nacional de Deportes
 - **Publicación**:
-   - https://atletismo.usplat.cl/download/255
-   - https://atletismo.usplat.cl/download/850
-   - https://atletismo.usplat.cl/download/1169
-   - https://atletismo.usplat.cl/download/1727
-   - https://atletismo.usplat.cl/download/2283 
+   - https://atletismo.usplat.cl/download/1431
+   - https://atletismo.usplat.cl/download/2031
+   - https://atletismo.usplat.cl/download/2536
 - **Contenido**:
 La base contiene los resultados de la Final Nacional 2023 y 2025 de los Juegos Deportivos Escolares y Convencional 2024, los tres categoria u14. Las variables son nombre del atleta, año de nacimiento, región del colegio del atleta o colegio mismo, pista para aquellas pruebas que lo ameritan, resultado, posicion que obtuvo, Tipo de prueba y horario de ésta tanto a nivel masculino como femenino, puntajes generales por region para hombres y mujeres por separado y mixto. JDE 2025: Levantado el domingo 31 y lunes 1 de agosto 2025, JDE 2023: Martes 5 y Miércoles 6, Septiembre 2023, JDE 2024: Viernes 11 y Sábado 12, Octubre 2024.
 - **Pertinencia**:
@@ -66,9 +64,11 @@ Este documento es valioso para el tema de investigación pues pemite observar el
 ## Rolf Hoppe
 - **Propietario**: Club Atlético Francés
 -  **Publicación**:
-   - https://atletismo.usplat.cl/download/1431
-   - https://atletismo.usplat.cl/download/2031
-   - https://atletismo.usplat.cl/download/2536
+- https://atletismo.usplat.cl/download/255
+   - https://atletismo.usplat.cl/download/850
+   - https://atletismo.usplat.cl/download/1169
+   - https://atletismo.usplat.cl/download/1727
+   - https://atletismo.usplat.cl/download/2283 
 - **Contenido**: -
 La base contiene los resultados del Rolf Hoppe 2019, 2022, 2023, 2024, 2025 en distintas categorias de edad. Las variables son nombre del atleta, año de nacimiento, colegio, pista para aquellas pruebas que lo ameritan, resultado, posicion que obtuvo, Tipo de prueba y horario de ésta tanto a nivel masculino como femenino, puntajes generales por categoria y colegio y puntajes generales para hombres y mujeress por separado.
 Se levantaron el Sábado 6 y Domingo 7, Abril 2019, Sábado 20 y Domingo 21, Agosto 2022. Sábado 15 y Domingo 16, Abril 2023, Sábado 13 y Domingo 14, Abril 2024, Sábado 12 y Domingo 13, Abril 2025.
