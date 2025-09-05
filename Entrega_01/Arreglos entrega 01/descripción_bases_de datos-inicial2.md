@@ -30,8 +30,4 @@ Metodo de recolección: inscripcion manual, al igual que con las otras bases de 
   - Levantamiento de datos: los datos fueron levantados durante los panamericanos 2019 y 2023. El instrumento utilizado para medir no esta claro. Son los datos oficiales del campeonato y han sido ordenados en planillas en formato pdf.
 
 
-Link a formato de tabla CSV (https://drive.google.com/file/d/1p2jjfAB3Hf63BDeLufSe6WBj8uW3FnwR/view?usp=sharing)# Descripción base de datos inicial - Mario
 
-
-
-Link a archivo CSV con propuesta de tabulación (https://drive.google.com/file/d/1rwP700hcFTRUKsba_CIpcLIT9piIYISI/view?usp=sharing)
