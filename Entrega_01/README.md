@@ -22,6 +22,7 @@
 ### También se pueden responder otras preguntas como: ¿Hay una correlación entre los récords batidos en competencias escolares y el desempeño de los atletas chilenos en competencias profesioanles adultas en años futuros? O incluso ¿El nivel de la competencia atlética nacional se está acercando o alejando del observado en competencias internacionales?
 
 ## *Historia visual*
+Pretendemos realizar una muestra geografica de los momentos y lugares donde se han realizado marcas de las distintas disciplinas, con un desglose de los atletas involucrados incorporando una breve biografía.
 
 ## *Resultados*
 ### Lo mínimo que se puede contar como historia con los datos disponibles es un análisis sobre si el nivel de la competencia atlética nacional a nivel escolar puede o no ayudarnos a anticipar el rendimiento que tendrán los atletas chilenos en las competencias internacionales adultas de los años venideros. 
