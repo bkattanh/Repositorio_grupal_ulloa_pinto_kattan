@@ -1,4 +1,4 @@
-[base_datos_Benja_2019_2025.csv](https://github.com/user-attachments/files/22164648/base_datos_Benja_2019_2025.csv)# Descripción base de datos inicial
+# Descripción base de datos inicial
 La base de datos esta compuesta de más de un documento por lo tanto abajo explicito lo solicitado para cada fuente.
 
 ## Juegos deportivos escolares (JDE)
