@@ -30,7 +30,7 @@ siendo
 ## Récords Copa de atletismo escolar RM 
 - **Propietario**: No está claro quién es el organizador pero es la página oficial de la Copa de atletismo escolar
 - **Publicación**:
-- https://www.copadeatletismoescolar.com/recordrm.html
+  - https://www.copadeatletismoescolar.com/recordrm.html
   
 - **Contenido**:
 La base contiene los records de la copa de atletismo escolar, en categoría mini, subpenecas, penecas, subpreparatoria, preparatoria, subinfantil, infantil, selección. Las variables son marca, nombre del atleta, sexo, año del récord, colegio del atleta, tipo de prueban y categoria. Levantados en muchos años distintos años debido a que son records.
@@ -54,4 +54,3 @@ Estos datos son relevantes para analizar la evolución del atletismo juvenil en 
 - Metodo de recolección: Inscripción manual
   - Levantamiento de datos: los datos fueron levantados durante diversas copas de atletismo escolar en distintos años, y el documento esta actualizado a 2025. El instrumento utilizado para medir no está claro. Son los datos oficiales del campeonato y han sido puestos en una planilla disponible en la página web oficial.
 
-Link a formato de tabla CSV (https://drive.google.com/file/d/1p2jjfAB3Hf63BDeLufSe6WBj8uW3FnwR/view?usp=sharing)
