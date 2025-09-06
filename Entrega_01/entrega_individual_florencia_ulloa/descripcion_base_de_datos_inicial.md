@@ -7,7 +7,7 @@ La base de datos está compuesta de más de un documento por lo tanto abajo expl
   - https://www.atleticosantiago.cl/wp-content/uploads/2025/08/Tabla-Records-Interescolar-PREPARATORIO-2025-Belen.pdf
   
 - **Contenido**:
-La base contiene los récords de los campeonatos interescolares organizados por el Club AtlÉtico Santiago, en categorÍa Preparatoria, infantil, intermedia y superior. Las variables son marca, nombre del atleta, sexo, año del récord, colegio del atleta, tipo de prueba. Levantados en muchos años distintos años debido a que son récords.
+La base contiene los récords de los campeonatos interescolares organizados por el Club AtlÉtico Santiago, en categoría Preparatoria, infantil, intermedia y superior. Las variables son marca, nombre del atleta, sexo, año del récord, colegio del atleta, tipo de prueba. Levantados en muchos años distintos años debido a que son récords.
 - **Pertinencia**:
 Estos datos son relevantes para analizar la evolución del atletismo juvenil en los últimos años en Chile, que tantos récords se han roto en el ultimo tiempo. Lo anterior permite observar rendimiento y junto a otros datos puede ayudar a hacer proyecciones, algo vital para responder a nuestra hipótesis.
 siendo 
