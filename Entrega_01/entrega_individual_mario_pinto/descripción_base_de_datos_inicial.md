@@ -1,6 +1,7 @@
 # Descripción base de datos inicial
 ## Juegos Panamericanos 
 **Propietario**: Panam Sports
+
 **Publicación**:
 - https://results-santiago2023.org/#/discipline/ATH/medals
 - https://results.archive.bornan.sport/2023-panam/reports/ATH-------------------------------.RBK_1_0.pdf
@@ -11,7 +12,7 @@ La base contiene la cantidad de medallas que obtuvo Chile en atletismo en los Ju
 
 **Pertinencia**:
 Estos datos son sumamente relevantes para poder analizar la evolución del atletismo juvenil en los últimos años en Chile, pues son nuestro punto de comparación. Estos datos permiten que la hipótesis sea factible de probar, por lo que son vitales en nuestro trabajo.
-siendo 
+
 **Metodología**:
 - Fuentes consultadas: Santiago2023.org/Panamsports.org
 - Variables:
