@@ -94,6 +94,4 @@ Permiten observar participación, rendimiento y proyección de talentos en disti
 - Método de recolección: Inscripción manual
 - Levantamiento de datos: Los datos fueron levantados en el Escolar Atlético Francés Rolf Hoppe organizados por el Club Atlético Frances, en distintas pistas atléticas de San Carlos de Apoquindo, dependiendo de la edición del torneo. No tengo claridad de los instrumentos utilizados para medir, pero son los datos oficiales del campeonato y han sido ordenados en planillas en formato pdf.
 
-- Link propuesta Excel
-  - https://drive.google.com/file/d/1ju_vLz9lYAH5NZU00sck1CVI61Hp2hyX/view?usp=drive_link
-    
+
