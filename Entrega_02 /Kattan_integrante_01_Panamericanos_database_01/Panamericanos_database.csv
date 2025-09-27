@@ -1,4 +1,4 @@
-Categoria;Prueba;Marca;Año;Competencia;Nombre Atleta
+Categoria;Prueba;Marca;Año;Competencia;Nombre Atleta;;
 Adulto Masculino;800m;1:49.99 min;2019;Panamericanos Lima adulto;Alejandro Peirano López;;
 Adulto Masculino;800m;1:50.03 min;2019;Panamericanos Lima adulto;Rafael Muñoz Nuñez;;
 Adulto Masculino;Salto largo;7.05 mts;2019;Panamericanos Lima adulto;Daniel Pineda Contreras;;
@@ -57,5 +57,6 @@ Junior Masculino;Salto Alto;2.04 mts;2025;Panamericanos junior Asunción ;Cristo
 Junior Masculino;Salto Garrocha;4.60 mts;2025;Panamericanos junior Asunción ;Leonardo Olate;;
 Junior Femenino;Lanzamiento bala ;15.47 mts;2025;Panamericanos junior Asunción ;Mariela Pérez;;
 Junior Femenino;Salto Garrocha;3.60 mts;2025;Panamericanos junior Asunción ;Javiera Moraga;;
+
 
 
