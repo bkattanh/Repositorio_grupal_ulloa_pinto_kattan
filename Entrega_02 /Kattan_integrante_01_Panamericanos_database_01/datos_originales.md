@@ -4,5 +4,5 @@ Estimada profesora, en base a lo que conversé con la Profesora Katherine, al es
 - **Panamericano Junior Cali-Valle 2021:** https://www.calivalle2021.com/deporte/esquema/3/deporte/2540
 - **Panamericanos Santiago 2023:** https://results-santiago2023.org/#/discipline/ATH/schedule/by-event/M.100M--------------
 - **Panamericanos Asunción 2025:** https://results.asuncion2025.org/#/discipline/ATH/schedule/by-event/M.100M--------------
-- 
+
 De antemano, muchas gracias por su comprensión
