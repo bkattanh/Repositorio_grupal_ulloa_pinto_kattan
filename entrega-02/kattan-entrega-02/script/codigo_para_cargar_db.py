@@ -10,6 +10,6 @@ Original file is located at
 import pandas as pd
 
 #cargar datos
-df = pd.read_csv("/content/Panamericanos_database_limpia.csv", sep=",")
+df = pd.read_csv("/content/benjamin-database-limpia.csv", sep=";", encoding="latin-1")
 #Echar un vistazo
 df.head(65)
