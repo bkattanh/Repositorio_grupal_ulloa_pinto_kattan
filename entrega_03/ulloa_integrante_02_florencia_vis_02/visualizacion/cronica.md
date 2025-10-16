@@ -13,4 +13,4 @@ La validación más clara de la hipótesis se encuentra en las pruebas de saltos
 
 #### Conclusión
 
-El año **2025** destaca en los registros como un año de **aumento de rendimiento** a nivel nacional, superando las marcas promedio de los años anteriores. La mejora es generalizada, pero las disciplinas de **Distancia/Metros** experimentaron el mayor **salto** competitivo, validando la hipótesis.
+El año **2025** destaca en los registros como un año de **aumento de rendimiento** a nivel nacional, superando las marcas promedio de los años anteriores. La mejora es generalizada, pero las disciplinas de experimentaron el mayor **salto** competitivo, validando la hipótesis.
