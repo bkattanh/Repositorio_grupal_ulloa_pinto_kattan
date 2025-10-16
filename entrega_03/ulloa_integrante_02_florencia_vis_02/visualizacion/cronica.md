@@ -1,13 +1,16 @@
-# Crónica – La brecha que se acorta en los 800 metros
+### Crónica: El Salto de Rendimiento de 2025: Un Año Récord en Pista y Campo
 
-Durante años, la diferencia entre los atletas escolares y adultos en el atletismo chileno ha sido una constante. Sin embargo, los datos recientes del 2023 al 2025 comienzan a dibujar un cambio interesante: la brecha se estrecha. En la prueba de 800 metros planos, uno de los eventos más exigentes del mediofondo, los registros muestran que los jóvenes están corriendo cada vez más cerca del estándar adulto.
+Es posible que debido un **incremento en el rendimiento atlético para el año 2025** en las competencias nacionales, muestre una mejora debido a  la tendencia anual, que compara el rendimiento promedio entre 2023, 2024 y 2025, confirma esta tendencia, siendo especialmente marcada en las pruebas de campo.
 
-Los resultados del Instituto Nacional de Deportes y la Federación Atlética de Chile revelan que, mientras en 2023 los escolares promediaban cerca de un 12% más de tiempo que los adultos, para 2025 esa diferencia se redujo a menos del 7%. Este cambio no es menor. Significa que los atletas jóvenes no solo están alcanzando un mejor rendimiento, sino que además lo hacen de manera sostenida en el tiempo, lo que sugiere una mejora estructural en la preparación y detección de talentos.
+#### La Velocidad: Tendencia a la Consolidación
+En las pruebas de **Tiempo**, las categorías **Adulto Masculino** y **Adulto Femenino** demuestran un **descenso consistente** en la media de la marca a lo largo de los tres años. El año **2025** consolida esta progresión, registrando los tiempos promedio más rápidos. Esto implica que el rendimiento de velocidad en los campeonatos nacionales está en alza de forma sostenida.
 
-El 800 metros es una prueba particular: combina la velocidad de los sprinters con la resistencia de los fondistas. Requiere táctica, control del ritmo y una gran capacidad anaeróbica. En ese contexto, el avance observado en los escolares no se explica solo por talento individual, sino también por un mayor acceso a entrenadores especializados y competencias de calidad en etapas tempranas.
+#### La Fuerza y Técnica: El Mayor Impulso en 2025
+La validación más clara de la hipótesis se encuentra en las pruebas de saltos y lanzamientos. Aquí, las líneas de las cuatro categorías presentan un **claro ascenso** en 2025. El pico de rendimiento promedio es notablemente superior al de 2023 y 2024. Este fuerte aumento, medido en metros, sugiere que:
 
-El análisis de los datos también permite ver que, aunque el grupo adulto mantiene un rendimiento estable, los escolares reducen sus tiempos con mayor pendiente año a año. En otras palabras, el progreso viene “desde abajo”. Este acercamiento progresivo puede anticipar una generación de atletas que, en pocos años, competirán de igual a igual con los adultos actuales.
+1.  Los atletas de campo, lanzamientos y saltos, alcanzaron su *peak* de distancia de forma sincrónica en 2025.
+2.  Se elevó el nivel competitivo promedio, impulsado por marcas más largas en estas disciplinas.
 
-Más allá de las cifras, esta tendencia habla de un cambio cultural en el deporte base chileno: una mayor inversión en programas escolares y una mejor articulación con el alto rendimiento. La visualización que acompaña esta crónica invita a observar ese proceso en perspectiva: tres años en los que las líneas, que al principio parecían distantes, comienzan a converger.
+#### Conclusión
 
-La historia del atletismo chileno se escribe también en estos pequeños descensos de segundos. Detrás de ellos hay entrenamientos, políticas deportivas y sueños juveniles que, paso a paso, acortan la distancia con la élite.
+El año **2025** destaca en los registros como un año de **aumento de rendimiento** a nivel nacional, superando las marcas promedio de los años anteriores. La mejora es generalizada, pero las disciplinas de **Distancia/Metros** experimentaron el mayor **salto** competitivo, validando la hipótesis.
