@@ -1,10 +1,10 @@
 # README - Florencia Ulloa
 
-### 1. Proceso y Decisiones de Visualización
+### 1. Proceso y decisiones de visualización
 
 **Objetivo:** Comunicar la brecha de participación de atletas únicos entre Salto Largo y Salto Garrocha por categoría.
 
-**Pasos Clave:**
+**Pasos clave:**
 1.  **Carga y Filtrado:** Se cargó el archivo `Florencia_database_limpia 2.csv` y se filtraron solo las pruebas 'Salto Largo' y 'Salto Garrocha', ya que son las que mejor ilustran la disparidad de participación.
 2.  **Agregación (Conteo Único):** Se aplicó una función de agregación en Python (`groupby(['Categoria', 'Prueba'])['Nombre Atleta'].nunique()`) para asegurar que cada atleta se contara una sola vez por categoría y por prueba, eliminando la sobrestimación por múltiples registros de la misma persona.
 3.  **Visualización (Altair):** Se eligió un **Gráfico de Barras Agrupadas** para permitir la **comparación visual directa** de la longitud de las barras (participación) entre las dos pruebas (colores) dentro de cada categoría (eje Y). El facetado por `Prueba` con escalas independientes en el eje X (resolve_scale(x='independent')) resalta la distribución interna, mientras que la longitud de las barras muestra la magnitud.
@@ -12,7 +12,7 @@
 
 ---
 
-### 2. Base de Datos, Procesamiento y Ficha Técnica
+### 2. Base de Datos y procesamiento 
 
 | Variable | Descripción |
 | :--- | :--- |
@@ -23,14 +23,9 @@
 | Competencia | Nombre del evento deportivo Nacional Escolar o Adulto. |
 | Nombre Atleta | Identificador del atleta Clave para el conteo único. |
 
-**Procesamiento Específico (CSV de salida):**
-La base de datos original fue procesada para crear el *dataframe* final utilizado en la visualización, conteniendo solo las pruebas de salto.
 
----
+### Preguntas de investigación
 
-### 3. Ejemplos de Preguntas que Responde la Visualización
-
-La visualización generada permite responder:
 * **Magnitud de la Brecha:** ¿Cuántos atletas más hay en Salto Largo que en Salto Garrocha en la categoría **Escolar**?
 * **Distribución de la Escasez:** ¿En qué categoría se concentra la menor participación absoluta en Salto Garrocha?
 * **Comparación de Género:** ¿La diferencia de participación entre Salto Largo y Salto Garrocha es proporcionalmente mayor en categorías masculinas o femeninas?
