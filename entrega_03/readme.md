@@ -7,8 +7,9 @@ Durante los años 2019 y 2025, la brecha entre atletas escolares/junior y adulto
 - ¿Que pruebas muestran una mayor mejora en el rendimiento juvenil y por ende cuales se han estancado?
 ## Avance de su proyecto en relación con la hipótesis y preguntas de investigación:
 
-* **Divergencia del enfoque:** El análisis demostró que el factor **"Prueba" es dominante** en la segmentación de los atletas. Las diferencias de participación entre Salto Largo (alta) y Salto Garrocha (baja) son mucho más notorias que las diferencias de rendimiento.
-* **Refuerzo de la hipótesis:** Esto reforzó nuestra hipótesis, pivotando la narrativa de una historia centrada solo en las marcas a una **crónica de la participación y accesibilidad**. Utilizamos el volumen de atletas únicos como indicador de popularidad y, más importante, de la infraestructura y programas de desarrollo necesarios para cada tipo de salto.
+A nivel general, el trabajo que se hizo con las bases de datos permitió dar cuenta de que las diferencias existentes entre categorías etarias no se explican únicamente por el rendimiento sino que también por el nivel de participación y acceso. El análisis hecho relevo el factor prueba como un aspecto dominante en aquella segmentación. Disciplinas como salto largo muestran una alta presencia de competidores en contraste con el salto con garrocha que mantiene una baja participación. Por lo anterior se abrió el foco de investigación hacía también una mirada de carácter estructural y no solo de rendimiento.
+
+El estudio y análisis de las pruebas de lanzamiento femenino entre 2019 y 2025 sirve de complemento a lo mencionado, abarcando el plano del rendimiento deportivo. Según los datos, pruebas como bala o disco muestran una disminución de la brecha entre juveniles y adultas, tanto por mejoras sostenidas de las más jovenes como por una bajada de las marcas de las compañeras más grandes. Refuerza la hipótesis por un lado pero deja de lado la idea de que esto es uniforme y constante en todas las disciplinas pues por ejemplo no se observó esa mejora en martillo o jabalina.
 
 
 ### Preguntas de investigación actuales:
