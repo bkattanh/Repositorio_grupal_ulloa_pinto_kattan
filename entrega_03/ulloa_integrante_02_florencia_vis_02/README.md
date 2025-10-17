@@ -5,14 +5,14 @@
 **Objetivo:** Comunicar la brecha de participación de atletas únicos entre Salto Largo y Salto Garrocha por categoría.
 
 **Pasos clave:**
-1.  **Carga y Filtrado:** Se cargó el archivo `Florencia_database_limpia 2.csv` y se filtraron solo las pruebas 'Salto Largo' y 'Salto Garrocha', ya que son las que mejor ilustran la disparidad de participación.
-2.  **Agregación (Conteo Único):** Se aplicó una función de agregación en Python (`groupby(['Categoria', 'Prueba'])['Nombre Atleta'].nunique()`) para asegurar que cada atleta se contara una sola vez por categoría y por prueba, eliminando la sobrestimación por múltiples registros de la misma persona.
-3.  **Visualización (Altair):** Se eligió un **Gráfico de Barras Agrupadas** para permitir la **comparación visual directa** de la longitud de las barras (participación) entre las dos pruebas (colores) dentro de cada categoría (eje Y). El facetado por `Prueba` con escalas independientes en el eje X (resolve_scale(x='independent')) resalta la distribución interna, mientras que la longitud de las barras muestra la magnitud.
-4.  **Diseño:** Se usó un color azul para Salto Largo (alta participación) y un color de alerta para Salto Garrocha para reforzar el contraste de la narrativa.
+1.  **Carga y filtrado:** Se cargó el archivo `Florencia_database_limpia 2.csv` y se filtraron solo las pruebas 'Salto Largo' y 'Salto Garrocha', ya que son las que mejor ilustran la disparidad de participación.
+3.  **Incorporación:** Se aplicó una función de agregación en Python (`groupby(['Categoria', 'Prueba'])['Nombre Atleta'].nunique()`) para asegurar que cada atleta se contara una sola vez por categoría y por prueba, eliminando la sobrestimación por múltiples registros de la misma persona.
+4.  **Visualización (Altair):** Se eligió un **gráfico de barras agrupadas** para permitir la **comparación visual directa** de la longitud de las barras (participación) entre las dos pruebas (colores) dentro de cada categoría (eje Y). El facetado por `Prueba` con escalas independientes en el eje X (resolve_scale(x='independent')) resalta la distribución interna, mientras que la longitud de las barras muestra la magnitud.
+6.  **Diseño:** Se usó un color azul para Salto Largo (alta participación) y un color de alerta para Salto Garrocha para reforzar el contraste de la narrativa.
 
 ---
 
-### 2. Base de Datos y procesamiento 
+### 2. Base de datos y procesamiento 
 
 | Variable | Descripción |
 | :--- | :--- |
