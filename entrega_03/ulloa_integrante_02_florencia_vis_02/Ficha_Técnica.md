@@ -33,10 +33,8 @@
 | `anio`          | Año de la competencia (2023, 2024 o 2025).                                  |
 | `competencia`   | Tipo de evento: Escolar (JDE) o Adulto (Campeonato Nacional).               |
 | `nombre_atleta` | Nombre completo del atleta.                                                 |
-| `sexo`          | Hombre / Mujer.                                                             |
-| `categoria`     | Salto Largo, Salto Alto, Salto Garrocha|
-| `Estandarización`   | Escolar (JDE) o Campeonato Adulto.                                    |
-| `prueba`        | Saltos              |
+| `sexo`          | Femenino / Masculino.                                                             |
+| `categoria`     | Salto Largo y Salto Garrocha|
 | `resultado`     | Cantidad de atletas           |
 
 ---
@@ -45,5 +43,5 @@
 
 
 - La base fue integrada con los documentos publicados por las distintas ediciones de los JDE y Fedachi, para formar un total de **230 registros**, manteniendo formato y unidades homogéneas.  
-- Para la visualización individual se filtró exclusivamente la participación de atletas en saltos .  
+- Para la visualización individual se filtró exclusivamente la participación de atletas en salto largo y salto con garrocha .  
 - Los resultados finales fueron exportados en formato `.csv`, listos para análisis y visualización reproducible en Python.
