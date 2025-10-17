@@ -1,10 +1,10 @@
-# El Salto Largo Acapara la Pista: La Desigual Participación en las Disciplinas de Salto
+# El Salto largo acapara la pista
 
 La masificación de un deporte depende de diveras variables: la infraestructura, el acceso a la formación y los costos asociados. En el atletismo, las pruebas de salto son un claro ejemplo de esta disparidad, y los datos lo confirman.
 
 La hipótesis que se propone es que **Salto Largo es la disciplina de salto más accesible y popular**, especialmente en las etapas formativas. El análisis de los registros de competencias nacionales entre 2023 y 2025, concentrado en la participación de **atletas únicos** por categoría, revela una brecha que no es solo una diferencia, sino un abismo.
 
-### El Abismo Escolar
+### El abismo escolar
 
 La visualización adjunta muestra cómo en la categoría **Escolar Masculino**, la participación en Salto Largo supera varias veces la de Salto Garrocha. Esta tendencia se repite, aunque con menor magnitud, en las categorías Adulto y Femeninas.
 
@@ -12,7 +12,7 @@ Para practicar Salto Largo basta una fosa, un implemento simple y una pista. El 
 
 * *El número de atletas es un espejo de la inversión.* Donde hay mayor acceso a la infraestructura básica, la base de participantes es ancha. Donde el equipamiento es especializado y costoso, la participación se reduce a una minoría, limitando el desarrollo.
 
-### La Participación como Indicador de Desarrollo
+### La participación como indicador
 
 Si bien el Salto Garrocha presenta marcas de alto rendimiento en las categorías Adultas, la **base de la pirámide deportiva** (las categorías escolares) es estrecha. Una participación tan limitada en las etapas formativas sugiere un embudo prematuro. Hay menos oportunidades para que nuevos talentos descubran o se desarrollen en la disciplina, ya que el grueso de la población atlética juvenil no tiene el acceso físico para intentarlo.
 
