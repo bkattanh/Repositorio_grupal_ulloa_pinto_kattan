@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-6eb23434a04a966799035c09d6327789"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "Categor\u00eda", "type": "nominal"}, "column": {"field": "Categor\u00eda", "type": "nominal"}, "tooltip": [{"field": "A\u00f1o", "type": "quantitative"}, {"field": "Categor\u00eda", "type": "nominal"}, {"aggregate": "average", "field": "Marca", "type": "quantitative"}], "x": {"field": "A\u00f1o", "title": "A\u00f1o", "type": "ordinal"}, "y": {"aggregate": "average", "field": "Marca", "title": "Marca promedio (segundos)", "type": "quantitative"}}, "title": "Promedio de marcas en 800 metros planos por a\u00f1o y categor\u00eda", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-6eb23434a04a966799035c09d6327789": [{"Categor\u00eda": "Adulto masculino", "A\u00f1o": 2019, "Marca": 113.16}, {"Categor\u00eda": "Adulto femenino", "A\u00f1o": 2019, "Marca": 130.48}, {"Categor\u00eda": "Juvenil masculino", "A\u00f1o": 2019, "Marca": 0.0}, {"Categor\u00eda": "Juvenil femenino", "A\u00f1o": 2019, "Marca": 0.0}, {"Categor\u00eda": "Adulto masculino", "A\u00f1o": 2020, "Marca": 0.0}, {"Categor\u00eda": "Adulto femenino", "A\u00f1o": 2020, "Marca": 0.0}, {"Categor\u00eda": "Juvenil masculino", "A\u00f1o": 2020, "Marca": 0.0}, {"Categor\u00eda": "Juvenil femenino", "A\u00f1o": 2020, "Marca": 0.0}, {"Categor\u00eda": "Adulto masculino", "A\u00f1o": 2021, "Marca": 0.0}, {"Categor\u00eda": "Adulto femenino", "A\u00f1o": 2021, "Marca": 131.7}, {"Categor\u00eda": "Juvenil masculino", "A\u00f1o": 2021, "Marca": 117.8}, {"Categor\u00eda": "Juvenil femenino", "A\u00f1o": 2021, "Marca": 0.0}, {"Categor\u00eda": "Adulto masculino", "A\u00f1o": 2022, "Marca": 0.0}, {"Categor\u00eda": "Adulto femenino", "A\u00f1o": 2022, "Marca": 0.0}, {"Categor\u00eda": "Juvenil masculino", "A\u00f1o": 2022, "Marca": 115.2}, {"Categor\u00eda": "Juvenil femenino", "A\u00f1o": 2022, "Marca": 138.8}, {"Categor\u00eda": "Adulto masculino", "A\u00f1o": 2023, "Marca": 108.1}, {"Categor\u00eda": "Adulto femenino", "A\u00f1o": 2023, "Marca": 124.2}, {"Categor\u00eda": "Juvenil masculino", "A\u00f1o": 2023, "Marca": 0.0}, {"Categor\u00eda": "Juvenil femenino", "A\u00f1o": 2023, "Marca": 0.0}, {"Categor\u00eda": "Adulto masculino", "A\u00f1o": 2024, "Marca": 0.0}, {"Categor\u00eda": "Adulto femenino", "A\u00f1o": 2024, "Marca": 0.0}, {"Categor\u00eda": "Juvenil masculino", "A\u00f1o": 2024, "Marca": 118.9}, {"Categor\u00eda": "Juvenil femenino", "A\u00f1o": 2024, "Marca": 137.2}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
