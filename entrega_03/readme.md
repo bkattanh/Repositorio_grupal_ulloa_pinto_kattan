@@ -7,8 +7,8 @@ Durante los años 2019 y 2025, la brecha entre atletas escolares/junior y adulto
 - ¿Que pruebas muestran una mayor mejora en el rendimiento juvenil y por ende cuales se han estancado?
 ## Avance de su proyecto en relación con la hipótesis y preguntas de investigación:
 
-* **divergencia del enfoque:** El análisis demostró que el factor **"Prueba" es dominante** en la segmentación de los atletas. Las diferencias de participación entre Salto Largo (alta) y Salto Garrocha (baja) son mucho más notorias que las diferencias de rendimiento.
-* **Refuerzo de la Hipótesis:** Esto reforzó nuestra hipótesis, pivotando la narrativa de una historia centrada solo en las marcas a una **crónica de la participación y accesibilidad**. Utilizamos el volumen de atletas únicos como indicador de popularidad y, más importante, de la infraestructura y programas de desarrollo necesarios para cada tipo de salto.
+* **Divergencia del enfoque:** El análisis demostró que el factor **"Prueba" es dominante** en la segmentación de los atletas. Las diferencias de participación entre Salto Largo (alta) y Salto Garrocha (baja) son mucho más notorias que las diferencias de rendimiento.
+* **Refuerzo de la hipótesis:** Esto reforzó nuestra hipótesis, pivotando la narrativa de una historia centrada solo en las marcas a una **crónica de la participación y accesibilidad**. Utilizamos el volumen de atletas únicos como indicador de popularidad y, más importante, de la infraestructura y programas de desarrollo necesarios para cada tipo de salto.
 
 
 ### Preguntas de investigación actuales:
