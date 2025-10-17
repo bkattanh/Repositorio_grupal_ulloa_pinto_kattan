@@ -2,15 +2,14 @@
 
 ## 1. Fuente de los datos
 - **Instituto Nacional de Deportes (IND)**: Resultados oficiales de los **Juegos Deportivos Escolares (JDE)** para los años **2023, 2024 y 2025**.  
-- **Federación Atlética de Chile (FEDACHI)**: Resultados oficiales del **Campeonato Nacional Adulto** (2023–2025).  
-- Los documentos fueron publicados en formato PDF en sitios oficiales y descargados como insumo primario del proyecto.
+- **Federación Atlética de Chile (FEDACHI)**: Resultados oficiales del **Campeonato Nacional Adulto** (2023–2025). 
 
 ---
 
 ## 2. Metodología de construcción de la base
 
 1. **Extracción de datos** desde los PDF oficiales realizandolo manualmente.  
-2. **Validación manual en Excel**, verificando nombres, categorías y valores atípicos.  
+2. **Validación manual en Excel**, verificando nombres, categorías y cantidades  
 3. **Homologación de variables** para todas las fuentes:
    - Estandarización de nombres (`nombre_atleta`, `prueba`, `resultado`).
 5. **Normalización de categorías**: Escolar y Adulto.  
@@ -45,6 +44,6 @@
 ## 5. Observaciones
 
 
-- La base fue integrada con los documentos publicados por las distintas ediciones de los JDE y Fedachi, para formar un total de **848 registros**, manteniendo formato y unidades homogéneas.  
+- La base fue integrada con los documentos publicados por las distintas ediciones de los JDE y Fedachi, para formar un total de **230 registros**, manteniendo formato y unidades homogéneas.  
 - Para la visualización individual se filtró exclusivamente la participación de atletas en saltos .  
 - Los resultados finales fueron exportados en formato `.csv`, listos para análisis y visualización reproducible en Python.
