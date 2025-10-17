@@ -10,10 +10,10 @@ La visualización adjunta muestra cómo en la categoría **Escolar Masculino**, 
 
 Para practicar Salto Largo basta una fosa, un implemento simple y una pista. El **Salto Garrocha**, en cambio, requiere colchonetas de alta seguridad, pértigas y una infraestructura especializada que suele estar centralizada en pocas instituciones o grandes recintos deportivos.
 
-* *El número de atletas es un espejo de la inversión.* Donde hay mayor acceso a la infraestructura básica, la base de participantes es ancha. Donde el equipamiento es especializado y costoso, la participación se reduce a una minoría, limitando el desarrollo.
+* *El número de atletas es un espejo de la inversión.* Donde hay mayor acceso a la infraestructura básica, la base de participantes es maypr. Donde el equipamiento es técnico y costoso, la participación se reduce a una minoría, limitando a los atletas.
 
 ### La participación como indicador
 
-Si bien el Salto Garrocha presenta marcas de alto rendimiento en las categorías Adultas, la **base de la pirámide deportiva** (las categorías escolares) es estrecha. Una participación tan limitada en las etapas formativas sugiere un embudo prematuro. Hay menos oportunidades para que nuevos talentos descubran o se desarrollen en la disciplina, ya que el grueso de la población atlética juvenil no tiene el acceso físico para intentarlo.
+Si bien el Salto Garrocha presenta marcas de alto rendimiento en las categorías Adultas, la **base de la pirámide deportiva**, los Escolares, es estrecha. Una participación tan limitada en las etapas formativas sugiere un embudo temprano. Hay menos oportunidades para que nuevos talentos descubran o se desarrollen en la disciplina, ya que el grueso no tiene el acceso óptimo.
 
-Esta desigualdad en la participación  es un desafío estructural que afecta la proyección a largo plazo de las delegaciones nacionales en estas disciplinas. Para masificar el Salto Garrocha y el Salto Alto, los datos señalan la necesidad urgente de fomentar la construcción infraestructura y democratizar el acceso al equipamiento necesario, permitiendo que la curva de talento no se corte antes de empezar.
+Esta desigualdad en la participación  es un desafío estructural que afecta la proyección a largo plazo de las delegaciones nacionales en estas disciplinas. Para masificar el Salto Garrocha, los datos señalan la necesidad de fomentar la construcción infraestructura y garantizar el acceso al equipamiento necesario, permitiendo que la curva de talento no se corte antes de empezar.
