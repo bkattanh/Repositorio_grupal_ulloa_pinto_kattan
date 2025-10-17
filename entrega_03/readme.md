@@ -13,8 +13,6 @@ Durante los años 2019 y 2025, la brecha entre atletas escolares/junior y adulto
 
 ### Preguntas de investigación actuales:
 
-* ¿Cómo se distribuye el **número de atletas únicos** por "Prueba" a lo largo de los años 2023, 2024 y 2025?
-* ¿Existe una **diferencia significativa en la participación** de atletas entre las categorías **Escolar** (Masculino/Femenino) y las categorías **Adulto** (Masculino/Femenino)?
 * ¿Cuál es la **Competencia** que concentra la mayor participación de atletas, indicando su importancia en el calendario deportivo?
 
 
