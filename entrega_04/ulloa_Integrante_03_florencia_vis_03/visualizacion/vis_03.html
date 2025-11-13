@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Análisis de Participación: Salto Largo vs. Salto Garrocha</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            max-width: 900px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #0D47A1;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 10px;
+        }
+        .analysis-section {
+            background-color: #f9f9f9;
+            border-left: 5px solid #42A5F5; /* Mantengo este azul para el borde del análisis, se ve bien */
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .chart-container {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Análisis de la Brecha de Participación en Saltos</h1>
+    
+    <div class="analysis-section">
+        <p><strong>Los saltos y atletas escasos</strong></p>
+        <p>El gráfico expone la **enorme disparidad en la base de atletas únicos**: Salto Largo mantiene una participación masiva evidente en las barras de **azul oscuro**, mientras que Salto Garrocha muestra una escasez mayor mostrado en las barras de **azul claro**, especialmente en las categorías femeninas y escolares. </p>
+        <p>La escasez de participantes en salto con garrocha y la magnitud de esta brecha **sugiere la necesidad de revisar factores externos a la pista**, como la disponibilidad de equipamiento y los entrenadores disponibles.</p>
+    </div>
+
+    <div class="chart-container" id="vis">
+        </div>
+
+    <script>
+        // Define la especificación Vega-Lite (el JSON del gráfico Altair)
+        var spec = {
+          "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+          "title": "Brecha de Participación: Atletas Únicos en Salto Largo vs. Salto Garrocha (2023-2025)",
+          "data": {
+            "values": [
+              {"Categoria_Nombre": "Escolar Femenino", "Prueba": "Salto Largo", "Atletas_Unicos": 24},
+              {"Categoria_Nombre": "Escolar Masculino", "Prueba": "Salto Largo", "Atletas_Unicos": 22},
+              {"Categoria_Nombre": "Adulto Femenino", "Prueba": "Salto Largo", "Atletas_Unicos": 15},
+              {"Categoria_Nombre": "Adulto Masculino", "Prueba": "Salto Largo", "Atletas_Unicos": 17},
+              {"Categoria_Nombre": "Escolar Femenino", "Prueba": "Salto Garrocha", "Atletas_Unicos": 12},
+              {"Categoria_Nombre": "Escolar Masculino", "Prueba": "Salto Garrocha", "Atletas_Unicos": 9},
+              {"Categoria_Nombre": "Adulto Femenino", "Prueba": "Salto Garrocha", "Atletas_Unicos": 9},
+              {"Categoria_Nombre": "Adulto Masculino", "Prueba": "Salto Garrocha", "Atletas_Unicos": 14}
+            ]
+          },
+          "mark": "bar",
+          "encoding": {
+            "x": {
+              "field": "Atletas_Unicos",
+              "title": "Conteo de Atletas Únicos",
+              "scale": {"domain": [0, 30]}
+            },
+            "y": {
+              "field": "Categoria_Nombre",
+              "title": null,
+              "sort": ["Escolar Femenino", "Escolar Masculino", "Adulto Femenino", "Adulto Masculino"]
+            },
+            "color": {
+              "field": "Prueba",
+              "legend": {"title": "Prueba"},
+              "scale": {
+                "domain": ["Salto Largo", "Salto Garrocha"],
+                "range": ["#0D47A1", "#90CAF9"] /* AQUÍ ESTÁ EL CAMBIO DE COLOR */
+              }
+            },
+            "column": {
+              "field": "Prueba",
+              "title": null,
+              "header": {"titleOrient": "bottom", "labelOrient": "bottom"}
+            },
+            "tooltip": [
+              {"field": "Categoria_Nombre", "type": "nominal"},
+              {"field": "Prueba", "type": "nominal"},
+              {"field": "Atletas_Unicos", "type": "quantitative"}
+            ]
+          },
+          "config": {
+            "axis": {"labelFontSize": 12, "titleFontSize": 14},
+            "header": {"titleFontSize": 14, "labelFontSize": 12},
+            "title": {"fontSize": 18, "anchor": "start"}
+          },
+          "usermeta": {
+            "embedOptions": {"renderer": "svg"}
+          }
+        };
+
+        // Usa Vega-Embed para incrustar el gráfico en el div con id="vis"
+        vegaEmbed('#vis', spec, {mode: "vega-lite"}).catch(console.error);
+    </script>
+
+</body>
+</html>
