@@ -50,7 +50,7 @@ El mapa de viaje del usuario se construyó para "Javier, el curioso", detallando
     * **Iconos:** Se utilizarán iconos de estilo lineal o "outline", siguiendo la estética minimalista y limpia de la tipografía. 
     * **Diseño de Botones:** Botones con esquinas ligeramente redondeadas, colores de la paleta azul y texto en blanco o gris oscuro.
 
-* ** Wireframe**
-Link al wireframe: https://miro.com/app/board/uXjVJslzQ-U=/?moveToWidget=3458764647890795357&cot=14
+* **Wireframe**
+**Link al wireframe:** https://miro.com/app/board/uXjVJslzQ-U=/?moveToWidget=3458764647890795357&cot=14
 - La estructura del wireframe se hizo de esa manera pues a nuestro parecer es importante que el texto sirva de explicación precedente a los graficos que a priori puedan ser lo más atractivo visualmente, debido que no queremos que se saque una conclusión errada de los datos, porque eso seria muy perjudicial para nuestro objetivo primero que es informar al usuario. Tambien esta pensadoo y armado de esa manera porque el relato es central para aunar toda la información que damos y entender que buscamos dar a entender. Solo grafico e ilustraciones pueden verse bien, pero solos o puestos sin niguna explicación anterior termina por ser poco utlles.
-- Propuesta de flujo: Avanzar de manera lineal por la pagina, con las cronicas y graficos pertinentes, y con pequeños pedazos para descansar como es el apartado de la derecha que tiene ilustracciones que pueden ayudar a descomprimir algo que a veces se puede volver muy denso.
+**Propuesta de flujo:** Avanzar de manera lineal por la pagina, con las cronicas y graficos pertinentes, y con pequeños pedazos para descansar como es el apartado de la derecha que tiene ilustracciones que pueden ayudar a descomprimir algo que a veces se puede volver muy denso.
