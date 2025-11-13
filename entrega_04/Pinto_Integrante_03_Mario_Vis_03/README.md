@@ -1,1 +1,9 @@
+### **1-Lectura visual de la pieza**
+#### El título busca condensar al más mínimo la información que contienen los gráficos, aunque dada la limitación espacial faltan muchas cosas por decir. Por de pronto, el título informa que el gráfico grafica marcas de atletas chilenos en los 800 metros planos. 
+#### El resto de la información para entender el gráfico se encuentra en el párrafo de abajo del título. Él indica que los datos se limitan a competiciones a nivel sudamericano y que la información está dividida en dos niveles: categoría (adulto o juvenil) y género de los competidores. 
+#### Con todo el contexto necesario para entender lo dicho, lo que sigue es el gráfico propiamente tal. Él a través de su título, informa claramente la información que se está visualizando: "marcas promedio en los 800 metros planos por año y categoría". 
+#### Posteriormente aparece el elemento gráfico de las fechas para dirigirnos a un dato clave de cada uno de los gráficos. Este nos muestra cuánto han variado las marcas promedio por categoría en el período analizado.
+#### Por último, la sección final de texto invita a hacer otra lectura de los gráficos y compararlos entre ellos.
 
+### **2-Aporte de los elementos visuales**
+#### En el caso de esta visualización la función principal del elemento textual es entregar información contextual que resulta muy necesaria para inteligir más fácilmente la información fundamental dada por el elemento gráfico, que es el propio gráfico. La función de este último elemento es ordenar información y presentarla de manera clara para poder ser decodificada por los lectores. Por último, las flechas que son otro elemento gráfico ayudan a direccionar la atención del lector hacia otra manera de presentar información contenida en el gráfico. Los colores por su parte, ayudan a organizar y dar orden a la información, agrupándola por secciones, tales como: Título, contexto, información, etc. 
