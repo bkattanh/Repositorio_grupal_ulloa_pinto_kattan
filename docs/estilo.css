@@ -216,3 +216,28 @@ width: fit-content;
      margin-top: -650px;  
    
 }
+/* Contenedor flexible para poner los gráficos lado a lado */
+.contenedor-graficos-800 {
+    display: flex;
+    flex-wrap: wrap; /* Permite que bajen si no hay espacio */
+    justify-content: center; /* Centra los elementos */
+    gap: 20px; /* Espacio entre gráficos */
+    margin: 20px 0;
+    padding: 10px;
+}
+
+/* Estilo para las imágenes JPG */
+.grafico-img {
+    max-width: 48%; /* Intentar ocupar casi la mitad del ancho */
+    height: auto; /* Mantener proporción */
+    border-radius: 8px; /* Bordes redondeados estéticos */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Sombra suave */
+}
+
+/* Regla para móviles: que ocupen todo el ancho en pantallas chicas */
+@media (max-width: 768px) {
+    .grafico-img {
+        max-width: 100%;
+        width: 100%;
+    }
+}
