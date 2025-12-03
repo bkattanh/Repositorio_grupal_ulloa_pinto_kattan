@@ -1,1 +1,0 @@
-# Analisis de las visualizaciones
