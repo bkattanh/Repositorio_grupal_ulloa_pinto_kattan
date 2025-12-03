@@ -214,6 +214,7 @@ width: fit-content;
     color: #01385F;
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
      margin-top: -650px; 
    
 }
@@ -224,6 +225,8 @@ width: fit-content;
     justify-content: center; 
     gap: 20px; 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
      margin-top: -650px; /* Este margen es necesario para el layout de lanzamientos */
@@ -257,9 +260,12 @@ width: fit-content;
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 
@@ -267,6 +273,9 @@ width: fit-content;
 
 /* Contenedor para las dos nuevas imágenes de salto */
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -274,6 +283,7 @@ width: fit-content;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     gap: 30px; 
@@ -295,6 +305,8 @@ width: fit-content;
 }
 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     gap: 30px; /* Espacio entre las imágenes */
@@ -381,8 +393,11 @@ width: fit-content;
 }
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 /* Nuevo estilo para los gráficos de la sección Saltos (tratados como imágenes) */
@@ -395,6 +410,10 @@ width: fit-content;
     margin: 20px auto;
     display: block; /* Asegura que la imagen sea tratada como un bloque centrado */
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+}
+>>>>>>> Stashed changes
+=======
 }
 >>>>>>> Stashed changes
 =======
