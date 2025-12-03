@@ -1,13 +1,12 @@
 # Analisis de las visualizaciones
-# Análisis de Visualizaciones
 
-## Una Mejora de Resultados pero no de Infraestructura
+## Una mejora de resultados pero no de Infraestructura
 
 El reporte de resultados, tanto en lanzamientos como en 800 metros planos, no refleja la infraestructura ni la participación en las pruebas de salto. Si bien algunas disciplinas muestran progreso, la Garrocha evidencia el impacto directo de la escasez de instalaciones especializadas.
 
 ---
 
-## La Progresión en 800 Metros Planos
+## La progresión en 800
 
 La visualización de la marca promedio de los atletas chilenos en los 800 metros planos a nivel sudamericano revela una clara tendencia de mejora en la mayoría de las categorías, medida en segundos (mientras más baja la marca, mejor el desempeño).
 
@@ -21,7 +20,7 @@ La visualización de la marca promedio de los atletas chilenos en los 800 metros
 
 ---
 
-## De a Poco pero Cada Vez Más Cerca: Los Lanzamientos
+## De a poco pero cada vez más cerca: Lanzamientos
 
 El análisis en las pruebas de lanzamiento muestra una evolución positiva en la base de la pirámide atlética, pero con matices.
 
