@@ -229,15 +229,15 @@ width: fit-content;
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-     margin-top: -650px; /* Este margen es necesario para el layout de lanzamientos */
+     margin-top: -650px; 
    
 }
-/* Contenedor flexible para poner los gráficos lado a lado */
+
 .contenedor-graficos-800 {
     display: flex;
-    flex-wrap: wrap; /* Permite que bajen si no hay espacio */
-    justify-content: center; /* Centra los elementos */
-    gap: 20px; /* Espacio entre gráficos */
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
 >>>>>>> Stashed changes
     margin: 20px 0;
     padding: 10px;
@@ -269,9 +269,7 @@ width: fit-content;
 =======
 >>>>>>> Stashed changes
 
-/* --- Estilos para la nueva sección de Saltos (Conclusión de ficha_tecnica_03) --- */
 
-/* Contenedor para las dos nuevas imágenes de salto */
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
@@ -309,27 +307,26 @@ width: fit-content;
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-    gap: 30px; /* Espacio entre las imágenes */
+    gap: 30px; 
     margin: 40px auto;
-    max-width: 1000px; /* Ancho máximo para el contenedor de imágenes */
+    max-width: 1000px; 
 }
 
 .imagen-salto {
-    max-width: 45%; /* Cada imagen ocupa un poco menos de la mitad para dejar espacio entre ellas */
+    max-width: 45%; 
     height: auto;
     border-radius: 15px;
-    box-shadow: 4px 4px 10px rgba(1, 56, 95, 0.5); /* Sombra similar a los gráficos */
-    object-fit: cover; /* Asegura que la imagen cubra el área sin distorsionarse */
+    box-shadow: 4px 4px 10px rgba(1, 56, 95, 0.5); 
+    object-fit: cover; 
 }
 
 @media (max-width: 768px) {
     .imagen-salto {
-        max-width: 90%; /* En pantallas pequeñas, cada imagen ocupa casi todo el ancho */
+        max-width: 90%; 
     }
 }
 
 
-/* Estilo para los contenedores de gráficos (Para los gráficos de línea y el gráfico total) */
 >>>>>>> Stashed changes
 .contenedor-graficos-saltos {
     display: flex;
@@ -400,7 +397,7 @@ width: fit-content;
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-/* Nuevo estilo para los gráficos de la sección Saltos (tratados como imágenes) */
+
 .grafico-img-salto {
     width: 90%;
     max-width: 900px; 
@@ -408,7 +405,7 @@ width: fit-content;
     border-radius: 15px;
     box-shadow: 4px 4px 10px rgba(1, 56, 95, 0.5); 
     margin: 20px auto;
-    display: block; /* Asegura que la imagen sea tratada como un bloque centrado */
+    display: block; 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 }
