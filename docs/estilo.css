@@ -162,21 +162,21 @@ width: fit-content;
     flex-wrap: nowrap;
     justify-content: center; 
     align-items: stretch;    
-    gap: 20;               
+    gap: 20px;               
     width: 95%;
     max-width: 1200px;
     margin: 0 auto 50px auto;
 }
 .vislanfem{
-     width: 40%; 
+     
+    width: 40%; 
     min-height: 400px; 
     border: 3px solid #01385F;
     padding: 20px;
     border-radius: 15px;
     background-color: #FFFFFF;
     box-shadow: 4px 4px 10px #01385F;
-    margin-left: 0;
-    margin-right: -10px;
+    margin: 0;
 }
 .vislanmas{
       width: 40%; 
@@ -186,8 +186,7 @@ width: fit-content;
     border-radius: 15px;
     background-color: #FFFFFF;
     box-shadow: 4px 4px 10px #01385F;
-    margin-left: 0;
-    margin-right: 610px;
+    margin: 0;
 }
 
 
@@ -201,8 +200,7 @@ width: fit-content;
     font-size: 1.2rem;
     line-height: 1.6;
     color: #01385F;
-
-     margin-top: -650px; 
+     margin-top: -730px; 
    
 }
 
@@ -211,21 +209,7 @@ width: fit-content;
     flex-wrap: wrap; 
     justify-content: center; 
     gap: 20px; 
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-     margin-top: -650px; 
-   
-}
-
-.contenedor-graficos-800 {
-    display: flex;
-    flex-wrap: wrap; 
-    justify-content: center; 
-    gap: 20px; 
->>>>>>> Stashed changes
+    margin-top: -650px; 
     margin: 20px 0;
     padding: 10px;
 }
@@ -245,32 +229,11 @@ width: fit-content;
     }
 }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 
-
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 .contenedor-imagenes-saltos {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     gap: 30px; 
     margin: 40px auto;
     max-width: 1000px; 
@@ -282,6 +245,7 @@ width: fit-content;
     border-radius: 15px;
     box-shadow: 4px 4px 10px rgba(1, 56, 95, 0.5); 
     object-fit: cover; 
+}
 
 @media (max-width: 768px) {
     .imagen-salto {
@@ -289,15 +253,6 @@ width: fit-content;
     }
 }
 
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-    gap: 30px; 
-    margin: 40px auto;
-    max-width: 1000px; 
-}
 
 .imagen-salto {
     max-width: 45%; 
@@ -314,7 +269,6 @@ width: fit-content;
 }
 
 
->>>>>>> Stashed changes
 .contenedor-graficos-saltos {
     display: flex;
     flex-direction: column; 
@@ -375,31 +329,5 @@ width: fit-content;
     width: 90%;
     max-width: 940px;
 }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 
-.grafico-img-salto {
-    width: 90%;
-    max-width: 900px; 
-    height: auto;
-    border-radius: 15px;
-    box-shadow: 4px 4px 10px rgba(1, 56, 95, 0.5); 
-    margin: 20px auto;
-    display: block; 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-}
->>>>>>> Stashed changes
-=======
-}
->>>>>>> Stashed changes
-=======
-}
->>>>>>> Stashed changes
