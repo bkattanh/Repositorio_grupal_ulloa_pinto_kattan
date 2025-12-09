@@ -1,0 +1,27 @@
+## **Documentación**
+
+#### **Titular del reportaje**: De junior a adulto: ¿Qué distancia hay entre el nivel competitivo de los atletas juveniles y los atletas adultos en Chile?
+
+### **Resumen**
+
+#### El camino de todo atleta profesional arranca compitiendo primero en torneos escolares y luego dando el paso a competiciones juveniles que eventualmente pueden tener alcance continental o incluso mundial. Como sea, competiciones como los sudamericanos o los panamericanos juveniles de atletismo son el preámbulo más inmediato de lo que luego será la carrera a nivel adulto y profesional de los atletas. Por eso, en este reportaje quisimos indagar en qué distancia competitiva hay entre las competiciones atléticas juveniles y las adultas; y también ver cuál es la tendencia de esa brecha. ¿Las marcas de los juveniles chilenos se están acercando o alejando de las obtienen los atletas nacionales adultos en competiciones profesionales? Para ello se armaron tres bases de datos con información de competetencias atléticas de distinto alcance: Nacional, sudamericano y panamericano. No hay información contundente que permita afirmar consistentemente que la brecha de nivel entre las marcas juveniles y las adultas está disminuyendo en Chile y sí hay datos que permiten suponer que hay razones estructurales (como la disponibilidad de infraestructura) para esa brecha. En esta webstory hacemos un barrido por algunas de las pruebas atléticas más famosas como los 800 metros planos, los lanzamientos y los saltos; y revisamos cómo se están compartando las marcas de los atletas nacionales juveniles y adultos, para tener un diagnóstico más completo de la situación. 
+
+### **Análisis de hipótesis**
+
+#### Nuestra hipótesis inicial que arrancó de una mera intuición era que la distancia o brecha entre las marcas de los atletas juveniles y las de los adultos estaba disminuyendo. Sin embargo, al poco andar y luego de hacer análisis de datos nos dimos cuenta de que esto no era tan así. En el caso de los lanzamientos sí se puede observar en algunos casos que algunos destacados atletas juveniles obtienen marcas que se sitúan en el nivel adulto. Sin embargo, eso se debe principalmente a que las marcas de los atletas chilenos adultos en los años analizados han sido más bajas, lo que por cierto no le quita mérito a los lanzadores juveniles. En el caso del análisis de los 800 metros planos se observa que existe una brecha importante entre las marcas de los juveniles y los adultos. Aunque, el volumen de datos analizado no permite hablar de una tendencia en ese caso, hay que tener presente que las marcas juveniles analizadas para ese análisis pertenecen a atletas top a nivel nacional que tienen una edad próxima a pasar a la categoría adulto. En el caso de los saltos, tampoco se observa una disminución de la brecha entre marcas juveniles y adultas. Lo que sí se observa en ese caso es una brecha de participación que atribuimos parcialmente a la disponibilidad (o falta de) infraestructura para practicar esas pruebas. 
+#### Por lo tanto, nuestra hipótesis naturalmente ha evolucionado y hoy estamos más cerca de formularla más o menos así: La brecha entre las marcas juveniles y las adultas parece estarse manteniendo, con algunas excepciones en ciertos tipos de lanzamiento, las que sin embargo obedecen a un decaimiento del nivel de los adultos. 
+
+## **Tabla de autoría**
+
+#### Para efectos de la tabla página web será abreviado como PW y Markdown como MD
+
+| Elemento | Florencia | Benjamín | Mario |
+| :--- | :---: | :---: | ---: |
+| Banner PW |  | Sí |  |
+| Presentación PW |  | Sí |  |
+|      Barra lateral PW     |        |  Sí  |  |
+|  800m PW      |      |      |       SÍ    |
+|    Saltos PW   |      SÍ    |        |        |
+| Lanzamientos PW    |        |     Sí    |           |
+|   MD Diseño     |      Sí   |         |             |
+|   MD Documentación   |        |         |     Sí     |
