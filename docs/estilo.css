@@ -247,10 +247,18 @@ width: fit-content;
 
 
 .grafico-img {
-    max-width: 48%; 
-    height: auto; 
-    border-radius: 8px; 
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+     width: 65%; 
+    height: auto;
+    border: 3px solid #01385F;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    box-shadow: 4px 4px 10px #01385F;
+    margin: 0;
+    box-sizing: border-box;
+    object-fit: contain;
+    
+     
 }
 
 @media (max-width: 768px) {
