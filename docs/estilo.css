@@ -166,6 +166,7 @@ width: fit-content;
     border: 1px solid #01385F;
     border-radius: 10px;
     background-color: #f7f9fb;
+  
 }
 
 .seccion-metodologia h3 {
@@ -339,6 +340,7 @@ width: fit-content;
     border-left: 5px solid #01385F;
     padding-left: 15px;
     margin-top: 30px;
+    
 }
 
 .caption {
@@ -365,7 +367,7 @@ width: fit-content;
 }
 
 .conclusion-general h2 {
-    text-align: center;
+    text-align: left;
     border-bottom: 3px solid #01385F;
     padding-bottom: 10px;
     margin-bottom: 30px;
