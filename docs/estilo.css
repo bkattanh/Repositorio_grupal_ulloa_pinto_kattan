@@ -257,6 +257,7 @@ width: fit-content;
     margin: 0;
     box-sizing: border-box;
     object-fit: contain;
+    overflow: visible;
     
      
 }
@@ -388,4 +389,12 @@ width: fit-content;
     border-bottom: 3px solid #01385F;
     padding-bottom: 10px;
     margin-bottom: 30px;
+}
+#vg-tooltip-element {
+    visibility: visible !important;
+    z-index: 99999 !important; 
+    opacity: 1 !important;
+    transition: none !important;
+    transition-delay: 0s !important;
+    animation: none !important;
 }
