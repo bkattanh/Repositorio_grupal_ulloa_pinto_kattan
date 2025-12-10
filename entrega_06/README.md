@@ -26,5 +26,5 @@
 | Conclusión PW  |   si     |        |         si  |
 | Metodologia PW  |   si     |     |          |
 MD Diseño     |      Sí   |         |             |
-|   MD Documentación   |        |         |     Sí     |
+|   MD Documentación   |        |     si    |     Sí     |
 
