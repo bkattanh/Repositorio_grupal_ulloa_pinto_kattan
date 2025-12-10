@@ -18,10 +18,13 @@
 | Elemento | Florencia | Benjamín | Mario |
 | :--- | :---: | :---: | ---: |
 | Banner PW |  | Sí |  |
-| Presentación PW |  | Sí |  |
+| Presentación e introduccion PW |  | Sí | Si |
 |      Barra lateral PW     |        |  Sí  |  |
 |  800m PW      |      |      |       SÍ    |
 |    Saltos PW   |      SÍ    |        |        |
 | Lanzamientos PW    |        |     Sí    |           |
-|   MD Diseño     |      Sí   |         |             |
+| Conclusión PW  |   si     |        |         si  |
+| Metodologia PW  |   si     |     |          |
+MD Diseño     |      Sí   |         |             |
 |   MD Documentación   |        |         |     Sí     |
+
