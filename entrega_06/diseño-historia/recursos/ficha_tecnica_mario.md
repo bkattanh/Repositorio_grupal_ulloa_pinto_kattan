@@ -1,5 +1,7 @@
 ## **Ficha técnica**
 
+### **Aclaración: Esta ficha ténica corresponde a la base de datos ocupada por Mario Pinto hasta la entrega 5. Como el número de datos era bajo para el análisis de los 800 metros planos, finalmente se armó una nueva base fusionando las tres bases usadas en las entregas anteriores (la nueva base usó la base anterior de Benjamín, Florencia y Mario).**
+
 ### **Fuente de los datos:**
 
 #### Las fuentes ocupadas son los resultados de distintas competencias de atletismo a nivel sudamericano tanto de categorías adultas como U18. Ellas son: Campeonato Sudamericano de Atletismo Lima 2019, Campeonato Sudamericano de Atletismo Ecuador 2021, Campeonato Sudamericano de Atletismo Sao Paulo 2023, Campeonato Sudamericano de Atletismo U18 Paraguay 2021, Campeonato Sudamericano de Atletismo U18 Brasil 2022 y el Campeonato Sudamericano U-18 de Atletismo Argentina 2024.
